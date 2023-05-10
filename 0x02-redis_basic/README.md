@@ -109,3 +109,5 @@ cache = Cache() cache.store("foo") cache.store("bar") cache.store(42) replay(cac
 Repo:
 
 GitHub repository: alx-backend-storage Directory: 0x02-redis_basic File: exercise.py
+
+Copyright © 2023 ALX, All rights reserved.
